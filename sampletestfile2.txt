@@ -1,1 +1,19 @@
+commit for gitreset_2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 samplefile_2 for git branching
